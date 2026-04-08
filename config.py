@@ -7,8 +7,8 @@ class Config(object):
     DB_NAME = "nattu"
     API_ID = "6886135"
     API_HASH = "ee20a1c8a8e44eaa638b7254cbcc3012"
-    ADMIN_ID = 2118600611
+    ADMIN_ID = 8532700793
     DB_URL = "mongodb+srv://nattu:nattu@cluster0.quvds.mongodb.net/?appName=Cluster0"
-    LOG_CHANNEL = "-1003744110162" # Your Log Channel ID (Bot ko ADMIN BNAYE)
+    LOG_CHANNEL = "-1003873871474" # Your Log Channel ID (Bot ko ADMIN BNAYE)
     USERLINK = "https://t.me/Natking_uploader_bot"
     TUTORIAL_VIDEO = "https://t.me/Natking_uploader_bot"
