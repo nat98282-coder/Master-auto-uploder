@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+Bot.session
+Bot.session-journal
+.env
+*.log
+
+# Sensitive data
+appx_tokens.json
