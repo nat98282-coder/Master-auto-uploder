@@ -162,6 +162,7 @@ For support, please join our [ᎷΔŞŦᏋᏒ](https://t.me/ItsMeMaster)
 - Maintain stable internet connection
 - Monitor disk space for downloads
 - Regular database backups recommended
+- Hero
 
 ---
 Made with ❤️ by [ᎷΔŞŦᏋᏒ] 
